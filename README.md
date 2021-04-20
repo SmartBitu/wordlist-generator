@@ -2,6 +2,7 @@
 this list of wordlist generator tool
 
 # This is for learning purpose only........
+# Do not enter wrong values (there is no input validations) this tool is in development process
 # This tool help you to generate wordlist as a valid credentials after certain regular interval of word in list
 # simply have to log in to their own account every few attempts to prevent limit from ever being reached.
 
