@@ -3,12 +3,14 @@ this list of wordlist generator tool
 
 # This is for learning purpose only........
 # Do not enter wrong values (there is no input validations) this tool is in development process
-# This tool help you to generate wordlist as a valid credentials after certain regular interval of word in list
-# simply have to log in to their own account every few attempts to prevent limit from ever being reached.
+# This tool help you to generate wordlist with your valid credentials with broken authentication vulnerability. After certain regular interval of word in list
+# simply brute force have to log in to victims account, every few attempts to prevent limit from ever being reached.
 
 
 # Usage
+
 In linux
+
 git clone https://github.com/SmartBitu/wordlist-generator.git
 
 python3 wordlistgenerator.py
