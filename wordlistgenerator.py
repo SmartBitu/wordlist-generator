@@ -8,7 +8,7 @@ uname = input("Enter valid word for username or password  :  ")
 lst = []
 
 # number of elemetns as input
-y = int(input("Enter number of words you want to enter :  "))
+y = int(input("Enter total number of words you want to enter :  "))
 
 # number of place where correct credential want
 t = int(input("Enter number where repeted " + uname + ". e.g recurrcivly every 2 place from the list :  "))
@@ -32,4 +32,4 @@ print(lst)
 with open("file.txt", 'w') as output:
     for row in lst:
         output.write(str(row) + '\n')
-print("go to file.txt and see the wordlist generated........")
+print("Go to file.txt and see the wordlist generated........")
