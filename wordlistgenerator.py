@@ -2,7 +2,9 @@
 # This tool help you to generate wordlist as a valid credentials after certain regular interval of wordlist
 # simply have to log in to their own account every few attempts to prevent this limit from ever being reached.
 
-print("This is for learning purpose only........ \n This tool help you to generate wordlist as a valid credentials after certain regular interval of wordlist \n ")
+print("This is for learning purpose only........ \n ")
+print("This tool help you to generate wordlist as a valid credentials after certain regular interval of wordlist \n ")
+print("If you want to add valid word to first place than add manually...")
 # valid credential for brute force to generate wordlist
 uname = input("Enter valid word for username or password  :  ")
 lst = []
